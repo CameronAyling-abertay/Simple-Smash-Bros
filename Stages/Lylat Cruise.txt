@@ -1,0 +1,9 @@
+    left = Platform(350, 350, 100, 25)
+    middle = Platform(550, 350, 100, 25)
+    right = Platform(750, 350, 100, 25)
+    floor = Platform(250, 500, 700, 60)
+
+    sRespawnX = 300
+    sRespawnY = 550
+    oRespawnX = 881
+    oRespawnY = 550

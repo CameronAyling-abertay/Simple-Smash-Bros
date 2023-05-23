@@ -1,0 +1,6 @@
+    floor = Platform(200, 600, 800, 60)
+
+    sRespawnX = 300
+    sRespawnY = 600
+    oRespawnX = 881
+    oRespawnY = 600
